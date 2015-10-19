@@ -1,0 +1,19 @@
+body {
+	width: 700px;
+	margin: 0 auto 0 auto;
+	background-color: #ffff00;
+	color: #0000ff;
+}
+
+h1, h2, p {
+	text-align: center;
+}
+
+
+p {
+	position: relative;
+	top: 40px;
+	text-align: center;
+	font-size: 35px;
+	line-height: 40px;
+}
